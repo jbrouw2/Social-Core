@@ -1,10 +1,10 @@
 # Social-Core
 
 **Social media core database and server**
-- Registration and Log-in.
-- Profile POST, GET, DELETE.
-- User Posts, Comments, Likes, Following.
-- Protected API endpoints with authentication middleware.
+- Registration and Log-in
+- Profile POST, GET, DELETE
+- User Posts, Comments, Likes, Following
+- Protected API endpoints with authentication middleware
 
 
 ## Well-organized project in Visual Studio Code
