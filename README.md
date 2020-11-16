@@ -2,9 +2,9 @@
 
 **Social media core database and server**
 - Registration and Log-in.
-- Protected API endpoints with authentication middleware.
 - Profile POST, GET, DELETE.
 - User Posts, Comments, Likes, Following.
+- Protected API endpoints with authentication middleware.
 
 
 ## Well-organized project in Visual Studio Code
@@ -14,7 +14,7 @@
 
 
 
-## Database with MongoDB and Mongoose schemas hosted on Cloud Atlas**
+## Database with MongoDB and Mongoose schemas hosted on Cloud Atlas
 
 ![](https://media.giphy.com/media/5lEUJqa0Uluy5D8deu/source.gif)
 
