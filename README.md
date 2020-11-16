@@ -1,4 +1,4 @@
-# Social-Platform
+# Social-Core
 
 **Social media core database and server**
 - Registration and Log-in.
